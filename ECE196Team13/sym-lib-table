@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MT3608")(type "KiCad")(uri "${KIPRJMOD}/imported/MT3608/MT3608.kicad_sym")(options "")(descr ""))
+  (lib (name "CN3065")(type "KiCad")(uri "${KIPRJMOD}/imported/CN3065/CN3065.kicad_sym")(options "")(descr ""))
+  (lib (name "SY6280")(type "KiCad")(uri "${KIPRJMOD}/imported/SY6280AAC/SY6280AAC.kicad_sym")(options "")(descr ""))
+  (lib (name "SS34")(type "KiCad")(uri "${KIPRJMOD}/imported/SS34/SS34.kicad_sym")(options "")(descr ""))
+  (lib (name "SK34")(type "KiCad")(uri "${KIPRJMOD}/imported/SK34A/SK34A.kicad_sym")(options "")(descr ""))
+  (lib (name "CN3063")(type "KiCad")(uri "${KIPRJMOD}/imported/PMIC-CN3063_SOIC8_/PMIC-CN3063_SOIC8_.kicad_sym")(options "")(descr ""))
+  (lib (name "AO3400A")(type "KiCad")(uri "${KIPRJMOD}/imported/AO3400A/AO3400A.kicad_sym")(options "")(descr ""))
+  (lib (name "AO3401A")(type "KiCad")(uri "${KIPRJMOD}/imported/AO3401A/AO3401A.kicad_sym")(options "")(descr ""))
+  (lib (name "I_USB_Micro_AB")(type "KiCad")(uri "${KIPRJMOD}/imported/I_USB_MicroAB/47589-0001.kicad_sym")(options "")(descr ""))
+  (lib (name "O_USB_A")(type "KiCad")(uri "${KIPRJMOD}/imported/O_USBA/USB-A1HSW6.kicad_sym")(options "")(descr ""))
+)
