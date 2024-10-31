@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "USBA")(type "KiCad")(uri "/Users/MadelineFruin/Desktop/courses/ece196/imports/0480370001")(options "")(descr ""))
+  (lib (name "C2_10uF")(type "KiCad")(uri "/Users/MadelineFruin/Desktop/courses/ece196/imports/C2_10uF")(options "")(descr ""))
+  (lib (name "C3_1000uF")(type "KiCad")(uri "/Users/MadelineFruin/Desktop/courses/ece196/imports/C3_1000uF")(options "")(descr ""))
+  (lib (name "LM741")(type "KiCad")(uri "/Users/MadelineFruin/Desktop/courses/ece196/imports/LM741CN_NOPB")(options "")(descr ""))
+)
